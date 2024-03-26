@@ -12,10 +12,10 @@ This project aims to create a web-based application using React.js to edit Adobe
       - Interactive Editing: The application will implement editing functionalities based on user interactions, such as sliders for adjusting values or drag-and-drop for positioning layers.
       - Canvas Rendering: The edited animation will be rendered onto an HTML canvas element for real-time visualization.
       - Single-File Export: Users can export a single HTML/JS file containing all necessary code to render the final animation on a web page.
-Note:
 
 
-# Getting Started:
+
+## Getting Started:
 ## Installation
 
       - Clone this repository:
