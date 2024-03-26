@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# AfterEffect_Animation_Editor
 This project aims to create a web-based application using React.js to edit Adobe After Effects animation files within a user interface (UI).
 
 ## Features:
