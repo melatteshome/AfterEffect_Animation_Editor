@@ -14,7 +14,7 @@ This project aims to create a web-based application using React.js to edit Adobe
 - Single-File Export: Users can export a single HTML/JS file containing all necessary code to render the final animation on a web page.
 Note:
 
-Due to the complexity of After Effects file formats, this project might require additional research and potentially using third-party libraries for parsing and manipulating the animation data.
+
 # Getting Started:
 ## Installation
 
